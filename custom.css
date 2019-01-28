@@ -16,7 +16,7 @@ limitations under the License.
 
 :root {
    /* Modify these to change your theme colors: */
-   --primary: #09F;
+   --primary: #0e6461;
    --text: #a9a9a9;
    --background: #222;
    --background-elevated: #363636;
@@ -33,7 +33,7 @@ limitations under the License.
    --text-special: var(--primary);
 
    --scrollbar-background: #000;
-   --scrollbar-border: var(--primary);
+   --scrollbar-border: #AAA;
 }
 
 h1, h2, h3, h4 {
